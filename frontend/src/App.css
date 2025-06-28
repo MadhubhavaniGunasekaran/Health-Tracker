@@ -1,0 +1,36 @@
+/* frontend/src/App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 20px auto;
+}
+
+.form-container input {
+  margin: 10px 0;
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+}
+
+.data-container {
+  margin: 20px auto;
+  width: 80%;
+}
+
+.health-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px 0;
+  background-color: #f9f9f9;
+}
